@@ -1,0 +1,2 @@
+Prefix plugins/Laplace/example
+Plugin Laplace inputfile vector.txt outputfile none
